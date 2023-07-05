@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @AdrianZdankowski
-- 🌱 I’m currently learning JavaScript, Python, PHP, CSS
+- I study IT at the Gdańsk University of Technology
+- 🌱 I’m currently learning JavaScript, Python, C++, Java
 
 
 <!---
