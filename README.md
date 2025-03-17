@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AdrianZdankowski
 - I study IT at the Gdańsk University of Technology
-- 🌱 I’m currently learning JavaScript, Python, C++, Java
+- 🌱 I’m currently learning .NET, Java, JavaScript/TypeScript, Python and their frameworks
 
 
 <!---
